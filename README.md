@@ -1,6 +1,6 @@
 # ♻️ cycle
 
-# Usage
+## Usage
 
 ```ts
 import { cycle } from '@hanamura/cycle'
