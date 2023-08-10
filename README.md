@@ -1,8 +1,8 @@
-# 📜 TypeScript Lib Template
+# ♻️ cycle
 
 # Usage
 
 ```ts
-import { sample } from '@hanamura/typescript-lib-template'
-sample()
+import { cycle } from '@hanamura/cycle'
+cycle(15, 0, 10) // => 5
 ```
