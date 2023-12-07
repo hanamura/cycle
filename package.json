@@ -1,6 +1,5 @@
 {
   "name": "@hanamura/cycle",
-  "private": true,
   "version": "1.0.1",
   "scripts": {
     "build": "rm -rf dist && tsc",
